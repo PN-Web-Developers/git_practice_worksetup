@@ -1,2 +1,4 @@
 Shopping Items:
 Jacket
+Shoes
+Shorts
